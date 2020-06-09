@@ -1,0 +1,2 @@
+# InventoryForecastingModel
+Inventory forecasting model
